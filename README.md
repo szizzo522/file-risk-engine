@@ -11,7 +11,8 @@ ScanPro is a Python-based GUI application that monitors your Downloads folder fo
 If you want to run ScanPro directly from the Python source code:
 
 - Python 3.8 or later
-- watchdog (`pip install watchdog`)
+- watchdog
+- bash```pip install watchdog```
 
 ## Installation
 ### 1. Download the Executable
