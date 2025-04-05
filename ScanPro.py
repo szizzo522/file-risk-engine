@@ -20,9 +20,12 @@ def display_output(text):
     output_box.config(state="disabled")
 
 def scan_file(filepath):
+    # Extract the filename from the given file path
     filename = os.path.basename(filepath)
     try:
+        # Retreive file size in bytes
         size_bytes = os.path.getsize(filepath)
+        # Convert file size to a human-readable form
         if size_bytes >= 1024 * 1024:
             size_str = f"{size_bytes / (1024 * 1024):.2f} MB"
         elif size_bytes >= 1024:
@@ -30,6 +33,7 @@ def scan_file(filepath):
         else:
             size_str = f"{size_bytes} Bytes"
     except Exception as e:
+        # Handle any errors that occur while retrieving the file size
         size_str = "Unknown"
         display_output(f"⚠️ Could not determine file size: {e}")
 

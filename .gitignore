@@ -21,3 +21,6 @@ venv/
 build/
 dist/
 *.spec
+
+# Ignore MyIcon.iconset folder
+MyIcon.iconset/
