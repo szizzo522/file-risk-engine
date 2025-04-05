@@ -12,7 +12,9 @@ If you want to run ScanPro directly from the Python source code:
 
 - Python 3.8 or later
 - watchdog
-- bash```pip install watchdog```
+ ```bash
+- pip install watchdog
+```
 
 ## Installation
 ### 1. Download the Executable
