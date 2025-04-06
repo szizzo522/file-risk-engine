@@ -11,7 +11,10 @@ ScanPro is a Python-based GUI application that monitors your Downloads folder fo
 If you want to run ScanPro directly from the Python source code:
 
 - Python 3.8 or later
-- watchdog (`pip install watchdog`)
+- watchdog
+ ```bash
+pip install watchdog
+```
 
 ## Installation
 ### 1. Download the Executable
@@ -47,3 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENCE) fil
 ***This was created using python version 3.12.2***
 
 ***This is a basic scanner—it doesn’t actually analyze the file’s internal code or behavior. More advanced scanners use signature-based or heuristic analysis, sometimes even running files in a sandbox. This version is meant as a learning tool and a simple first line of defense.***
+
+***I don’t expect or recommend anyone to download and run this app blindly — that’s just not good security practice in general.
+That said, ScanPro is 100% malware-free and built with transparency in mind.
+You can always review the source code in this repo to verify what it does.***
