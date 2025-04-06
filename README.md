@@ -42,7 +42,7 @@ chmod +x ~/Downloads/ScanPro\ 2.app/Contents/MacOS/*
 
 **No additional setup is required on either platform.**
 
-## License
+## Licnse
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENCE) file for details.
 
