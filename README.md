@@ -44,7 +44,7 @@ chmod +x ~/Downloads/ScanPro\ 2.app/Contents/MacOS/*
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENCE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Comments
 ***This was created using python version 3.12.2***
