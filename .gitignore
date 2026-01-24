@@ -1,26 +1,35 @@
-# Python cache files
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-# macOS system files
-.DS_Store
+# Virtual environments
+venv/
+.env
 
-# Windows system files
+# OS system files
+.DS_Store
 Thumbs.db
 desktop.ini
 
-# virtual environment
-venv/
+# Editor folders
+.vscode/
 
-# temp-files
+# Logs & temp files
 *.log
 *.tmp
 
-# Ignore build artifacts
+# Build artifacts
 build/
 dist/
 *.spec
 
-# Ignore MyIcon.iconset folder
+# PyInstaller cache
+*.spec
+
+# Mac icon build folders (optional)
 MyIcon.iconset/
+
+# Test cache (optional)
+pytest_cache/
+.coverage
