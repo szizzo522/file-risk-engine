@@ -8,7 +8,7 @@ ScanPro is an endpoint security tool that monitors newly downloaded and created 
 
 **Check out my other projects on [YouTube](https://www.youtube.com/@Research-Farm/videos)**
 
-[![Watch the Demo](https://img.youtube.com/vi/eSiTjAktJIQ/0.jpg)](https://www.youtube.com/watch?v=BQvOrIgLj3g)
+[![Watch the Demo](https://img.youtube.com/vi/BQvOrIgLj3g/0.jpg)](https://www.youtube.com/watch?v=BQvOrIgLj3g)
 
 
 ---
