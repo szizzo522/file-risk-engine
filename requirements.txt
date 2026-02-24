@@ -1,2 +1,1 @@
-# 1 Requirement
-watchdog
+watchdog>=3.0.0
