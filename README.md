@@ -45,13 +45,15 @@ Clone repository:
 
 ```bash
 git clone https://github.com/szizzo522/file-risk-engine.git
+```
 ```bash
 cd file-risk-engine
-
+```
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 Run application:
 ```bash
 python main.py
+```
